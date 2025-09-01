@@ -1,8 +1,8 @@
 <?php?>
 <!-- /.sidebar-menu -->
-    <!-- </div></div></div><div class="os-scrollbar os-scrollbar-horizontal os-scrollbar-unusable os-scrollbar-auto-hidden"><div class="os-scrollbar-track"><div class="os-scrollbar-handle" style="width: 100%; transform: translate(0px, 0px);"></div></div></div><div class="os-scrollbar os-scrollbar-vertical os-scrollbar-auto-hidden"><div class="os-scrollbar-track"><div class="os-scrollbar-handle" style="height: 16.4091%; transform: translate(0px, 0px);"></div></div></div><div class="os-scrollbar-corner"></div></div>
-    /.sidebar -->
-  <!-- </aside> -->
+    < </div></div></div><div class="os-scrollbar os-scrollbar-horizontal os-scrollbar-unusable os-scrollbar-auto-hidden"><div class="os-scrollbar-track"><div class="os-scrollbar-handle" style="width: 100%; transform: translate(0px, 0px);"></div></div></div><div class="os-scrollbar os-scrollbar-vertical os-scrollbar-auto-hidden"><div class="os-scrollbar-track"><div class="os-scrollbar-handle" style="height: 16.4091%; transform: translate(0px, 0px);"></div></div></div><div class="os-scrollbar-corner"></div></div>
+   <!-- /.sidebar-->
+  </aside>
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper" style="min-height: 166.4px;">
@@ -14,7 +14,7 @@
             <h1 class="m-0">Dashboard</h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
-            <ol class="breadcrumb float-sm-right">
+            <ol class="breadcrumb d-none float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Locator Dashboard </li>
             </ol>

@@ -5,5 +5,7 @@
       
 
 
+
 <?php include __DIR__.'/../pagesContent/locatorApplicationsContent.php';?>
+
 <?php include '../footer.php';?>
