@@ -1,6 +1,6 @@
 <?php
 $host = $_SERVER['HTTP_HOST']; // e.g. localhost:8080
-$basePath =  "http://".$host . "/locator/";
+$basePath =  "http://".$host . "/prototype/";
 
 ?>
 <!DOCTYPE html>

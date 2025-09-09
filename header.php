@@ -1,7 +1,6 @@
 <?php
 $host = $_SERVER['HTTP_HOST']; // e.g. localhost:8080
-$basePath =  "http://".$host . "/locator/";
-
+$basePath =  "http://".$host . "/prototype/";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -27,7 +26,7 @@ $basePath =  "http://".$host . "/locator/";
   <link rel="stylesheet" href="<?php echo $basePath; ?>assets/css/overlayScrollbars.min.css">
   <link rel="stylesheet" href="<?php echo $basePath; ?>assets/css/datepicker.min.css">
 
-  <link rel="stylesheet" href="<?php echo $basePath; ?>assets/main.css">
+  <link rel="stylesheet" href="<?php echo $basePath; ?>assets/css/main.css">
 </head>
 <body class="sidebar-mini layout-fixed" style="height: auto;">
 <div class="wrapper">
